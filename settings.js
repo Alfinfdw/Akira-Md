@@ -13,15 +13,15 @@ global.APIs = {
 
 // Free apikey (Apikey expired silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-   'https://api.zeeoneofc.my.id': 'V12', // 👉 login https://api.zeeoneofc.xyz to get apikey
+   'https://api.zeeoneofc.my.id': 'tXDcaRVC', // 👉 login https://api.zeeoneofc.xyz to get apikey
 }
 
 // setting 
-global.autoread = false // auto read message
-global.autobio = false //auto ganti bio
+global.autoread = true // auto read message
+global.autobio = true //auto ganti bio
 global.anticall = true //anti call 
 global.userRegister = false
-global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
+global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
 //Available in indonesia , english & spanyol 
@@ -31,28 +31,28 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
-global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
-global.youtube = "https://youtube.com/@ChZeeoneOfc" //bebas asal jan hapus
+global.botname = "Akiraa-Mdོ" //namabot kalian
+global.ownername = "ᴹᴿ᭄ BangSyaii ×፝֟͜×" //nama kalian
+global.myweb = "Turu" //bebas asal jan hapus
+global.youtube = "https://youtube.com" //bebas asal jan hapus
 global.myweb2 = "https://s.id/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.email = "p@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['62887435047326'] //premium user
-global.owner = ["62887435047326", "622150996855"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "62887435047326" // nomor wa kalian
-global.ownernomerr = "+62887435047326" //nmr wa kalian
+global.premium = ['6283842839555'] //premium user
+global.owner = ["6283842839555", "6287776600135"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6283842839555" // nomor wa kalian
+global.ownernomerr = "+6287776600135" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Alphabot-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.packname = '© Akiraa-Mdོ' //sticker wm ubah
+global.author = 'Di Buat Oleh BangSyaii' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
-global.limitawal = {
+global.limitawal = 
    premium: "10000",
    free: 100
 }
